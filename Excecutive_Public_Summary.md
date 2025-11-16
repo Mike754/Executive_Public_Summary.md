@@ -1,5 +1,5 @@
 # Excecutive Public Summary
-### Michael Croft, Jaden Chagnon....
+### Jaden Chagnon, Michael Croft, Kia Ramezani, Arjun Sud, Vibishan Suthaharan
 ##### Nov 16 2025
  
 
