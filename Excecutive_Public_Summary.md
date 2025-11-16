@@ -16,11 +16,13 @@ Electric vehicles (EVs) have become a popular emissions-reducing alternative to 
 One solution to the personal transport GHG problem is public transit. Modelling carbon dioxide emissions of buses and cars shows that for seven bus occupants, bus emissions are always lower than car emissions. If the average bus occupancy in a given municipality at least seven (such as in Hamilton), taking the bus will always decrease carbon emissions (HCM 2024, Statistics Canada 2025). The more people who use public transit, the less emissions personal transportation will create (*Figure 1*). 
 
 ![Bus Emissions versus Car Emissions](Emissions.png)
+
 *Figure 1. Car emissions (red) versus bus emissions (green) with increasing number of bus occupants.*
 
 Another solution is making informed decisions of when and where to charge an EV. It was mentioned that EVs are not always carbon neutral. The viability of EVs for green personal transport depends on the kind of energy provided by the grid (*Figure 2*). Therefore, you may be making a climate-forward or climate-backward decision in buying an EV, depending on how your province is powered. Knowing what kind of energy powers your province may inform whether investing in an EV decreases GHGs. 
 
 ![Energy Grid Source](EV_Map.png)
+
 *Figure 2. Map of Canada that highlights each Province and Territories infrastructure to sustain EV electricity consumption. Darker regions correspond to regions where EVs yeild lower emissions at any time of day, and lighter regions where EVs should be charged only at specific times, and may still contribute GHG emissions.*
 
 ## What should I do? 
