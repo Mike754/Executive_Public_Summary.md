@@ -5,7 +5,7 @@
 
 ## The Climate Crisis 
 
-Climate change has been cemented as an increasingly pressing issue in the lives of Canadians over the past decade. Wildfires, flooding, extreme storms, and glacier melt have been escalating due to the effects of climate change (Government of Canada 2025). Furthermore, the effects of climate change and global warming are predicted to worsen in the years to come. It is therefore crucial that we take steps in mitigating future climate damage to protect our natural resources and the health of the planet. Take the issue of personal transport. In Canada, personal vehicle use contributes 11% of total GHG emissions (Stiebert and Sawyer 2025). Strategies to decrease these GHGs in the personal transit industry would significantly impact Canada's carbon footprint. 
+Climate change has been cemented as an increasingly pressing issue in the lives of Canadians over the past decade. Wildfires, flooding, extreme storms, and glacier melt have been escalating due to the effects of climate change and are predicted to worsen in the years to come (Government of Canada 2025). It is therefore crucial that we take steps in mitigating future climate damage to protect our natural resources and the health of the planet. Take the issue of personal transport. In Canada, personal vehicle use contributes 11% of total Greenhouse Gas (GHG) emissions (Stiebert and Sawyer 2025). Strategies to decrease these GHGs in the personal transit industry would significantly impact Canada's carbon footprint. 
 
 ## The Electric Vehicle Issue 
 
@@ -13,17 +13,17 @@ Electric vehicles (EVs) have become a popular emissions-reducing alternative to 
 
 ## Alternate Solutions
 
-One solution to the personal transport GHG problem is public transit. Modelling carbon dioxide emissions of buses and cars shows that for seven bus occupants, bus emissions are always lower than car emissions. If the average bus occupancy in a given municipality at least seven (such as in Hamilton), taking the bus will always decrease carbon emissions (HCM 2024, Statistics Canada 2025). The more people who use public transit, the less emissions personal transportation will create (*Figure 1*). 
+One solution to the personal transport GHG problem is public transit. Modelling carbon dioxide emissions of buses and cars shows that for seven occupants, bus emissions are always lower than car emissions. If the average bus occupancy in a given municipality is at least seven (such as in Hamilton), taking the bus will always decrease carbon emissions (HCM 2024, Statistics Canada 2025). Thus, as more people use public transit, less total emissions will be created (*Figure 1*). 
 
 ![Bus Emissions versus Car Emissions](Emissions.png)
 
-*Figure 1. Car emissions (red) versus bus emissions (green) with increasing number of bus occupants.*
+*Figure 1. Car emissions (red) versus bus emissions (green) with an increasing number of occupants. Blue marks indicate intersection points for n = 4, 5 and 6. For n = 7, bus emissions are always lower than car emissions.*
 
 Another solution is making informed decisions of when and where to charge an EV. It was mentioned that EVs are not always carbon neutral. The viability of EVs for green personal transport depends on the kind of energy provided by the grid (*Figure 2*). Therefore, you may be making a climate-forward or climate-backward decision in buying an EV, depending on how your province is powered. Knowing what kind of energy powers your province may inform whether investing in an EV decreases GHGs. 
 
 ![Energy Grid Source](EV_Map.png)
 
-*Figure 2. Map of Canada that highlights each Province and Territories infrastructure to sustain EV electricity consumption. Darker regions correspond to regions where EVs yeild lower emissions at any time of day, and lighter regions where EVs should be charged only at specific times, and may still contribute GHG emissions.*
+*Figure 2. A spatial map of Canada that highlights each province and territory’s infrastructure to sustain EV electricity consumption. The darker regions correspond to areas where electric vehicles do not require any restrictions on charging time, as the renewable energy infrastructure can fully sustain them. No matter the time of day, there will always be enough renewable resources sustaining the electricity grid to be the primary producer of energy for a charging station in that region. The lighter coloured provinces correspond to locations where citizens need to be aware of the times that they are charging their EV, to reduce the amount of CO2 emissions from non-renewable resources supporting the electricity grid. The times at which the lighter coloured provinces should be charging correspond to the low-demand hours from Figure 5. Map created in Arcgis (Government of Canada 2025).*
 
 ## What should I do? 
 
