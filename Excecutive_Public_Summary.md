@@ -15,7 +15,7 @@ Electric vehicles (EVs) have become a popular emissions-reducing alternative to 
 
 One solution to the personal transport GHG problem is public transit. Modelling carbon dioxide emissions of buses and cars shows that for seven occupants, bus emissions are always lower than car emissions. If the average bus occupancy in a given municipality is at least seven (such as in Hamilton), taking the bus will always decrease carbon emissions (HCM 2024, Statistics Canada 2025). Thus, as more people use public transit, less total emissions will be created (*Figure 1*). 
 
-![Bus Emissions versus Car Emissions](Emissions.png)
+![Bus Emissions versus Car Emissions](Traffic_Density.png)
 
 *Figure 1. Car emissions (red) versus bus emissions (green) with an increasing number of occupants. Blue marks indicate intersection points for n = 4, 5 and 6. For n = 7, bus emissions are always lower than car emissions.*
 
